@@ -17,8 +17,13 @@ Clusters have been computed and are represented by color.
 
 ---
 
-Subset Hamburg 
+Subset: Hamburg 
 
 - No. of nodes: 2,472 
 - No. of edges: 41,457 
 
+--- 
+
+## Literature 
+
+- [Bernhard Rieder: Studying Facebook via Data Extraction: The Netvizz. Proceedings of the 5th Annual ACM Web Science Conference, Pages 346-355. Paris, 2013](http://thepoliticsofsystems.net/permafiles/rieder_websci.pdf) [citation](https://dl.acm.org/citation.cfm?id=2464475)
