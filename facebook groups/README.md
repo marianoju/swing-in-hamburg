@@ -4,6 +4,8 @@ This data describes connections between facebook users with membership in swing-
 
 The original data was extracted from 450 swing dance related Facebook groups with Netvizz in late September 2013. Data has been concatenated, compressed and anonymized (five-digit hexadecimal user id). Edges represent “friendship” relations between users. Data contains only unique nodes and edges (no duplicates). Data includes isolate nodes! 
 
+Visualization and exploration of network data has been done with [Gephi](https://gephi.org/). 
+
 - No. of nodes: 137,218 
 - No. of edges: 2,538,069 
 
